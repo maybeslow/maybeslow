@@ -10,7 +10,7 @@
 
 #### A little more about me
 ```python
-class AbhigyanTrips():
+class Samil():
     
   def __init__(self):
     self.name = "Şamil";
@@ -22,7 +22,7 @@ class AbhigyanTrips():
     return self.name
     
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = Samil()
 ````
 
 <br><br>
